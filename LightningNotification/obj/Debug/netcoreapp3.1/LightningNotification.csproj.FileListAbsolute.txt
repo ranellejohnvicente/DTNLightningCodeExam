@@ -1,0 +1,10 @@
+/Users/ranellevicente/Desktop/LightningStrikeApp/LightningNotification/bin/Debug/netcoreapp3.1/LightningNotification.deps.json
+/Users/ranellevicente/Desktop/LightningStrikeApp/LightningNotification/bin/Debug/netcoreapp3.1/LightningNotification.dll
+/Users/ranellevicente/Desktop/LightningStrikeApp/LightningNotification/bin/Debug/netcoreapp3.1/LightningNotification.pdb
+/Users/ranellevicente/Desktop/LightningStrikeApp/LightningNotification/obj/Debug/netcoreapp3.1/LightningNotification.csproj.AssemblyReference.cache
+/Users/ranellevicente/Desktop/LightningStrikeApp/LightningNotification/obj/Debug/netcoreapp3.1/LightningNotification.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ranellevicente/Desktop/LightningStrikeApp/LightningNotification/obj/Debug/netcoreapp3.1/LightningNotification.AssemblyInfoInputs.cache
+/Users/ranellevicente/Desktop/LightningStrikeApp/LightningNotification/obj/Debug/netcoreapp3.1/LightningNotification.AssemblyInfo.cs
+/Users/ranellevicente/Desktop/LightningStrikeApp/LightningNotification/obj/Debug/netcoreapp3.1/LightningNotification.csproj.CoreCompileInputs.cache
+/Users/ranellevicente/Desktop/LightningStrikeApp/LightningNotification/obj/Debug/netcoreapp3.1/LightningNotification.dll
+/Users/ranellevicente/Desktop/LightningStrikeApp/LightningNotification/obj/Debug/netcoreapp3.1/LightningNotification.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pPU5WG4z10lQLLxn1zX74r5kN9mtYmrVRe59fRVJ58sRElwkYgh7igWfX9YkbnXXIjXP9m3brpRu6St7kTJM1g==",
+  "success": true,
+  "projectFilePath": "/Users/ranellevicente/Desktop/LightningStrikeApp/LightningNotification/LightningNotification.csproj",
+  "expectedPackageFiles": [
+    "/Users/ranellevicente/.nuget/packages/morelinq/3.3.2/morelinq.3.3.2.nupkg.sha512",
+    "/Users/ranellevicente/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
